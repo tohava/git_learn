@@ -11,7 +11,7 @@ let read_operator ()  =
   | '+' -> add;;
 
 	  
-print_string "Welcome to the calculator program\n";;
+print_string "SPLASH!!! Welcome to the calculator program\n";;
 let x = read_int () in
 let y = read_int () in
 let op = read_operator() in
